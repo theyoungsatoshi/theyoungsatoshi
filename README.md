@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theyoungsatoshi
-- 👀 I’m interested in the metaverse
-- 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on getting 666 BTC
+- 👀 I’m a crypto developer 
+- 🌱 I’m currently learning solidity and rust
+- 💞️ I’m looking to collaborate 
 - 📫 Reach me on telegram: @theyoungsatoshi
 
 <!---
